@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 85%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url('../img/love3.jpg');
+    background-repeat: no-repeat;
+}
+.box {
+    position: absolute;
+    top:35%;
+    width: 100%;
+    text-align: center;
+
+}
+h2{
+    font-size: 200%;
+    font-weight: 400;
+}
+span {
+    font-size: 200%;
+    font-weight: 400;
+}
+.c {
+    color:#DB4D6D;
+    margin: 0 2px 0 2px;
+}
